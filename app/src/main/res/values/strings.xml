@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">SubmissionAkhir</string>
+    <string name="name">Laptop Name</string>
+    <string name="desc">Description</string>
+    <string name="price">Price</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="creator_name">Rahman Pajri</string>
+    <string name="creator_email">rahmanfajri.rf@gmail.com</string>
+
+    <string-array name="data_photo">
+        <item>https://dlcdnwebimgs.asus.com/gain/C7E064B3-47D1-4C95-8572-E0ACEBEF9CC9/w1000/h732</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/FE2E419B-9313-46C3-8CFA-48C0BB54BD74/w1000/h732</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/F7DE0B01-CDF1-441D-9A84-84EB0447C963/w1000/h732</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/C724D1AF-4D73-4A95-9E58-4B33B38F2F89/w1000/h732</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/6956450D-1D4A-4A83-991B-04380982C51B/w1000/h732</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/14C97F28-01B0-4F14-A533-DCA0050E444B/w1000/h732</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/C7BA90AC-D74F-4C16-8443-3739E7772D9C/w1000/h732</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/CAE36EC4-493C-49E7-B397-E4DDFE08CD99/w1000/h732</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/2964E0A6-BCDB-4152-9E04-B42E3D0CBFD0/w1000/h732</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/7080278E-67AC-4325-BA7D-49A06A6F70B0/w1000/h732</item>
+    </string-array>
+    <string-array name="data_name">
+        <item>ROG Strix G17 (2022)</item>
+        <item>ROG Strix Scar 17 SE (2022)</item>
+        <item>ROG Strix G15 Advantage Edition G513</item>
+        <item>ROG Strix G15 G513</item>
+        <item>ROG Strix G15 (2022)</item>
+        <item>ROG Zephyrus M16 (2022)</item>
+        <item>ROG Zephyrus G15 (2022)</item>
+        <item>ROG Flow Z13 (2023) GZ301</item>
+        <item>ROG Flow X16 (2022) GV601</item>
+        <item>ROG Flow X13 (2022)</item>
+    </string-array>
+    <string-array name="data_desc">
+        <item>
+            Up to an AMD Ryzen™ 9 6900HX CPU and up to an NVIDIA® GeForce RTX™ 3070Ti Laptop GPU
+            dGPU iGPU. Up to a 150W TGP NVIDIA® GeForce RTX™ 3070Ti Laptop GPU with MUX Switch
+            Liquid Metal. \n\nROG Intelligent Cooling™: Liquid Metal and 84-blade Arc Flow Fans™
+            QHD/FHD. Fluid, fast-paced play with FHD 360Hz/3ms displays
+            Dolby VISION ATMOS. \n\nDolby Vision and Dolby Atmos support for immersive content
+            ASUS AURA RGB. Multiple RGB lighting zones with Aura Sync support to flex your flair.
+        </item>
+        <item>
+            Prosesor Intel® Core™ i9-12950HX dengan 16 cores dan 24 threads, dan mencapai hingga 65W TDP. MUXimum power Menggunakan GPU laptop hingga NVIDIA® GeForce RTX™ 3080 Ti dengan 175W maksimum TGP dan MUX Switch. \n\nLiquid Metal Memiliki Conductonaut Extreme liquid metal baik pada CPU maupun CPU dan sebuah vapor chamber yang didesain khusus untuk menjaga mesin tetap adem. Lihatlah jalan yang mulus menuju kemenangan dengan layar QHD 240Hz/3ms. \n\nLight ‘em up Dapatkan beberapa zona pencahayaan RGB dengan kustomisasi per tombol yang dapat dengan mudah disinkronkan dengan Aura Sync. Crack the code Pecahkan kode pada sasis dengan senter UV yang sudah disediakan di box dan buka kunci ke rahasia tersembunyi dalam game terbaru ROG, SCAR RUNNER.
+        </item>
+        <item>
+            Tingkatkan seluruh pengalaman gaming Windows 10 Pro Anda dengan ROG Strix G15 Advantage Edition baru yang apik dan sporty. Gandakan daya tembak AMD dengan CPU Ryzen™ 9 5900HX yang andal dan GPU Radeon™ RX 6800M. \n\nTeknologi AMD SmartShift dan Smart Access Memory membantu prosesor bekerja lebih baik bersama-sama untuk meningkatkan kinerja dalam berbagai tugas. Nikmati dan benamkan diri Anda dalam panel WQHD 165Hz/3ms, dengan FreeSync Premium memungkinkan gameplay yang ultrasmooth.
+        </item>
+        <item>
+            Nikmati pengalaman bermain game Windows 10 yang luar biasa di ROG Strix G15 / 17. Ditenagai oleh AMD Ryzen™ 9 5900HX CPU dan GPU GeForce RTX™ 3070, yang memberikan pengalaman bermain game hingga multitasking menjadi cepat dan lancar. \n\nHadir dengan pilihan panel refresh rate hingga 300Hz / 3ms untuk kebutuhan dalam berkompetisi esport player. Adaptive-Sync membuat permainan menjadi sangat halus, dan dengan peningkatan termal yang membantu Anda tetap tenang di bawah tekanan. Apa pun game yang anda mainkan, Anda dapat memainkannya dengan sempurna.
+        </item>
+        <item>
+            Up to an AMD Ryzen™ 9 6900HX CPU and up to an NVIDIA® GeForce RTX™ 3070 Ti Laptop GPU dGPU iGPU. Up to a 150W TGP NVIDIA® GeForce RTX™ 3070 Ti Laptop GPU with MUX Switch Liquid Metal. \n\nROG Intelligent Cooling™: Liquid Metal and 84-blade Arc Flow Fans™. QHD/FHD. Fluid, fast-paced play with FHD 300Hz/3ms. \n\nDolby VISION ATMOS. Dolby Vision and Dolby Atmos support for immersive content. ASUS AURA RGB. Multiple RGB lighting zones with Aura Sync support to flex your flair
+        </item>
+        <item>
+            94% screen-to-body ratio. Tampilan pro berukuran 16 inci dalam bentuk 15 inci yang ramping. Windows 11 Pro. \n\nGPU Laptop hingga GeForce RTX™ 3070 Ti dengan MUX Switch dan prosesor 12th Gen Intel® Core™ i9-12900H. Batere 90Wh menjagamu tetap aktif di manapun. \n\n16:10 aspect ratio, QHD 165Hz/3ms display dan Pantone® Validation, 100% PCI-P3 dan Dolby Vision\nROG Intelligent Cooling dengan komponen termal liquid metal dan 0dB Ambient cooling. \n\nEnam pengeras suara ditenagai oleh teknologi Dolby Atmos®
+        </item>
+        <item>
+            Mesin game Windows 11 dengan MUX Switch untuk performa maksimal. Didukung oleh CPU Ryzen™ 9 6900HS terbaru dan GPU Laptop NVIDIA® GeForce RTX™ hingga TGP maks 135W. \n\nPanel WQHD 165 Hz/3ms dengan validasi Pantone®, dukungan Dolby Vision, cakupan DCI-P3 100%, dan bezel super sempit. Enam speaker dengan dukungan Dolby Atmos® dan teknologi Peredam Kebisingan AI Dua Arah. \n\nDengan masa pakai baterai yang sangat baik, pengisian daya USB Type-C, dan dukungan WiFi 6E, nikmati kebebasan untuk membawa mesin Anda ke mana saja. Termal dijaga dengan senyawa termal logam cair pada CPU, kipas Aliran Busur 84 bilah ganda, dan Profil Skenario dinamis.
+        </item>
+        <item>
+            Dapatkan berbagai pengalaman bermain yang imersif ditenagai oleh Windows 11 dan prosesor hingga Intel® Core™ i9-13900H. GPU Laptop hingga NVIDIA® GeForce RTX™ 4060. Sudah divalidasi NVIDIA Studio untuk kreator, dan sudah memiliki peralatan eksklusif dan Studio Drivers terinstal di dalamnya. \n\nLayar sentuh Nebula Display QHD 165Hz dengan rasio aspek 16:10 membuka pintu kreativitas Anda.\nSolusi pendinginan dengan Vapor Chamber yang dipadukan dengan Liquid Metal dan teknologi 0dB Ambient Cooling. Main di mana saja dengan sebuah penyangga 170° dan keyboard yang dapat dilepas-pasang. \n\nPorts Input dan Output yang lebih banyak dan peningkatan grafis pada GPU Laptop hingga RTX™ 4090 dengan XG Mobile.
+        </item>
+        <item>
+            Bermain game di Windows 11 Home yang di tenagai prosesor AMD Ryzen™ 9 6900HS dan GeForce RTX™ 3070Ti GPU, TGP 125W dengan MUX Switch. \n\nROG Intelligent Cooling: Lebih percaya diri untuk bermain game, terima kasih kepada Frost Force Technology dan Pulsar Heatsink terbaru. \n\nMainkan game dalam konfigurasi laptop standar, atau manfaatkan engsel 360° penuh untuk menggunakan mesin dalam mode tablet, stand, atau tenda. \n\nDidukung dengan beberapa jenis input dan peningkatan daya grafis dengan XG Mobile. Quad speaker, 3D Mic Array untuk pengambilan suara, dan dukungan Dolby Atmos® menghadirkan audio yang jernih.
+        </item>
+        <item>
+            Bermain game pada Windows 11 yang tangguh tidak pernah sefleksibel atau portabel seperti pada ROG Flow X13 2-in-1 yang rilis tahun 2022. \n\nJalankan permainan game dan hal lain dengan cepat menggunakan CPU Ryzen™ 9 6900HS dan GPU GeForce RTX™ 3050 Ti terbaru. Pilihan XG Mobile eGPU meningkatkan grafis sesuai permintaan hingga AMD Radeon™ RX 6850M XT. \n\nSempurnakan permainan anda dengan pilihan tampilan 4K UHD atau 120Hz FHD. Ke mana pun aliran kreatif anda membawa anda: ikutilah
+        </item>
+    </string-array>
+    <string-array name="data_price">
+        <item>Rp 39.999.000</item>
+        <item>Rp 66.999.000</item>
+        <item>Rp 33.999.000</item>
+        <item>Rp 29.999.000</item>
+        <item>Rp 39.999.000</item>
+        <item>Rp 27.999.000</item>
+        <item>Rp 38.999.000</item>
+        <item>RP 28.499.000</item>
+        <item>Rp 28.999.000</item>
+        <item>Rp 25.999.000</item>
+    </string-array>
+</resources>
